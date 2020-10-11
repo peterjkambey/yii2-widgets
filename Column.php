@@ -12,7 +12,7 @@ use yii\base\Model;
  * @author Misbahul D Munir <misbahuldmunir@gmail.com>
  * @since 1.0
  */
-class Column extends BaseObect
+class Column extends BaseObject
 {
     /**
      * @var GridInput
